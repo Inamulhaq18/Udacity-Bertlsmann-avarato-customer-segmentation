@@ -1,7 +1,7 @@
 # Udacity-Bertlsmann-avarato-customer-segmentation
 ![Untitled design (1)](https://user-images.githubusercontent.com/37792859/160228053-460f4296-675b-4afa-adb4-51c6bfc3e3d2.png)
 ### Introduction
-This is a repository of a datascience project, where we are tasked of finding insights and intelligence to help a mailorder company optimize their marketing campaigns, and investments.
+This is a repository of a datascience project, where we are tasked with finding insights and intelligence to help a mailorder company optimize their marketing campaigns, and investments.
 ### Problem Statement
 One of Bertelsmann Avarato’s clients a mailorder company is expanding from one city in Germany to another city, they are looking for intelligence to help optimize their efforts and investments.
 
