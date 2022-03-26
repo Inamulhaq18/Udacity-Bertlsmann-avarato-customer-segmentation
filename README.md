@@ -1,5 +1,5 @@
 # Udacity-Bertlsmann-avarato-customer-segmentation
-![Customer Segmentation (4)](https://user-images.githubusercontent.com/37792859/160227992-1573f954-7760-4631-9e55-9547b384e014.png)
+![Untitled design (1)](https://user-images.githubusercontent.com/37792859/160228053-460f4296-675b-4afa-adb4-51c6bfc3e3d2.png)
 ### Introduction
 This is a repository of a datascience project, where we are tasked of finding insights and intelligence to help a mailorder company optimize their marketing campaigns, and investments.
 ### Problem Statement
